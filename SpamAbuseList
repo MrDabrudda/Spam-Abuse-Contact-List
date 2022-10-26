@@ -1,6 +1,8 @@
+
+
 ***Gmail Spam
 209.85.***.***
-network-abuse@google.com; abusecomplaints@markmonitor.com; mailauth-reports@google.com
+network-abuse@google.com; abusecomplaints@markmonitor.com; mailauth-reports@google.com; registrar-abuse@google.com; arin-contact@google.com
 
 ***Braze Sender Spam
 ***31.44.6.226
@@ -11,25 +13,146 @@ abuse@itglobal.com; tld-abuse@nic.ru; ABUSE@ENOM.COM; domainabuse@cscglobal.com
 ***185.230.88.182
 ***185.230.88.80
 ***185.230.88.215
-abuse@regtons.com; abuse@thehost.ua; abuse@itsinternet.net; abuse@pananames.com; abuse@de-cix.net
+abuse@regtons.com; abuse@thehost.ua; abuse@itsinternet.net; abuse@pananames.com; abuse@de-cix.net; domain-abuse@psi-usa.info;
 
-***104.244.127.206
+***89.144.43.245
+***89.144.34.55
+***89.144.34.182
+abuse@ghostnet.de; abuse@de-cix.net; domainabuse@cscglobal.com; domain-abuse@psi-usa.info; abuse@softlayer.com; ripe@ghostnet.de; abuse@punkt.de; allgemeiner-spam@internet-beschwerdestelle.de; besonderer-spam@internet-beschwerdestelle.de;
+
+***141.98.168.134
+abuse@stark-industries.solutions; noc@stark-industries.solutions; abuse-contact@publicdomainregistry.com; iixeng@telehouse.com; iieg@telehouse.com; jose.guzman@telehouse.com; sugeno@telehouse.com; domainabuse@cscglobal.com
+
+***69.166.8.164
+noc@bostonfiber.net; ABUSE@ENOM.COM; noc@axcelx.com
+
+***5.101.47.5
+abuse@pindc.ru;
+
+***144.21.48.44
+***130.162.188.11
+***130.162.185.80
+network-contact_ww_grp@oracle.com; network-contact_ww@oracle.com; domain-contact_ww_grp@oracle.com; domainabuse@cscglobal.com
+
+***31.192.233.244
+abuse@profitserver.ru; abuse@aup.lumen.com; abuse@level3.com; abusecomplaints@markmonitor.com; security@level3.com
+
+***65.108.72.72
+abuse@hetzner.com; domainabuse@cscglobal.com
+
+***194.95.60.204
+abuse@dfn.de; domainabuse@cscglobal.com; allgemeiner-spam@internet-beschwerdestelle.de; besonderer-spam@internet-beschwerdestelle.de;
+
+***105.30.250.130
+abuse@seacom.mu; abuse@marcaria.com; domainabuse@cscglobal.com
+
+***20.107.250.114
+domainabuse@cscglobal.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
+
+
+
+***bestdealsnow.today
+***getitnow.services
+abuse@godaddy.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
+
+***lefigaro.fr
+abuse@akamai.com; hostmaster@sdv.fr; ip-admin@akamai.com; domainabuse@cscglobal.com
+
+
+
+***pblinq.com
+abuse@cloudflare.com; domainabuse@cscglobal.com; registrar-abuse@cloudflare.com
+
+***microy.me
+***70.38.124.166
+abuse@namecheap.com; abuse@iweb.com; abuse@key-systems.net; abusereport@key-systems.net; abuse@cogentco.com
+
+***lpredirect.com
+abuse@godaddy.com; network-abuse@google.com; abusecomplaints@markmonitor.com; mailauth-reports@google.com; registrar-abuse@google.com; arin-contact@google.com; google-cloud-compliance@google.com
+
+***visionarymom.com
+ABUSE@ENOM.COM; abuse@hostgator.com; compliance@domain-inc.net; support@websitewelcome.com;
+
+***techconsulting-alerts-1.com
+abuse@godaddy.com; 
+
+***theemalerm.com
+abuse@name.com;
+
+***upkne.com
+abuse@godaddy.com; 
+
+***realwens.com
+tos@fastdomain.com; google-cloud-compliance@google.com; domainabuse@cscglobal.com; network-abuse@google.com; abusecomplaints@markmonitor.com; mailauth-reports@google.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; registrar-abuse@google.com
+
+***s.bl-1.com
+***bananatag.com
+***staffbase.com
+abuse@godaddy.com; abuse@amazonaws.com; domainabuse@cscglobal.com; abuse@united-domains.de; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com; allgemeiner-spam@internet-beschwerdestelle.de
+
+***content.app-us1.com
+abuse@cloudflare.com; domainabuse@cscglobal.com; registrar-abuse@cloudflare.com
+
+***lattefree.com
+abuse@namecheap.com; abuse@dedipath.com; admin@dedipath.com; 
+
+***upaknee.com
+abuse@ovh.ca
+
+***r2ee7.com
+abuse@namecheap.com; abuse@s-host.com.ua; abuse@core-backbone.com; abuse@serverius.net
+
+***r2e7.com
+abuse@namecheap.com;
+
+***facebook.com
+abuse@facebook.com; postmaster@facebook.com; spamreport@spamreport.facebook.com; domain@facebook.com
+
+104.244.127.206
 abuse@inmotionhosting.com; domainabuse@tucows.com; abuse@web.com; domain.operations@web.com; abuse@cogentco.com
 
 ***lnkd.in
-abuse@microsoft.com; domainabuse@cscglobal.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@microsoft.com; domainabuse@cscglobal.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; secure@microsoft.com; IOC@microsoft.com
 
+***gladefliper.com
+abuse@name.com;
+
+***eronedavehew.xyz
 ***mboathands.xyz
 ***ustmovedtoth.xyz
 ***ontheyoung.xyz
-abuse@namecheap.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@namecheap.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
+
+***calendly.com
+abuse@godaddy.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; domainabuse@cscglobal.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; support@calendly.com; secure@microsoft.com; IOC@microsoft.com
+
+***clickagy.com
+abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
+
+***demdex.net
+abuse@comlaude.com; abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
+
+***openx.net
+domainabuse@tucows.com; abusecomplaints@markmonitor.com
+
+***rlcdn.com
+abuse@cloudflare.com; registrar-abuse@cloudflare.com;
+
+***bing.com
+***clarity.ms
+ccops@markmonitor.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
+
+***quoracdn.net
+domainabuse@cscglobal.com; abuse@cloudflare.com
+
+***rekaorc.com
+abuse@name.com; abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***trkac1.com
-abuse@wildwestdomains.com; abuse@amazonaws.com; domainabuse@cscglobal.com
+abuse@wildwestdomains.com; abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***accrediteddebtrelief.com
-abuse@godaddy.com; abuse@cloudflare.com; domainabuse@cscglobal.com
-
+abuse@godaddy.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; domainabuse@cscglobal.com
 
 ***cateringmba.com
 abuse@onlinenic.com; info@jino.ru; abuse@jino.ru; abuse@reg.ru; abuse@web.com; abuse@retn.net; domainabuse@cscglobal.com
@@ -38,35 +161,36 @@ abuse@onlinenic.com; info@jino.ru; abuse@jino.ru; abuse@reg.ru; abuse@web.com; a
 domainabuse@tucows.com; abuse@quick-soft.net; compliance@tucows.com; lir@di-net.ru; tld-abuse@nic.ru; abuse@mtu.ru
 
 ***ehufgtds.com
-abuse@godaddy.com; no-email@apnic.net; abuse@cloudflare.com; domainabuse@cscglobal.com
+abuse@godaddy.com; no-email@apnic.net; abuse@cloudflare.com; registrar-abuse@cloudflare.com; domainabuse@cscglobal.com
 
 ***gooootoooo.com
-abuse@namecheap.com; no-email@apnic.net; abuse@cloudflare.com; domainabuse@cscglobal.com; support@equinix.com
+abuse@namecheap.com; no-email@apnic.net; abuse@cloudflare.com; registrar-abuse@cloudflare.com; domainabuse@cscglobal.com; support@equinix.com
 
 ***ndswiththefam.xyz
-abuse@namecheap.com; abuse@microsoft.com; abusecomplaints@markmonitor.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@namecheap.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
 
 ***acamar.xyz
 abuse@namecheap.com; noc@ovh.net; abuse@ovh.net; domainabuse@cscglobal.com
 
 ***ow.ly
-abuse@hootsuite.com; abuse@amazonaws.com; domainabuse@cscglobal.com
+abuse@hootsuite.com; abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***t.co
 net-abuse@twitter.com
 
 ***dividentwater.com
-abuse@namecheap.com; help@fusehosting.net; abuse@amazonaws.com; abuse@coresite.com; jerome.favis@coresite.com; michael.stanley@coresite.com; chris.malayter@coresite.com; osc@coresite.com; domainabuse@cscglobal.com
+abuse@namecheap.com; help@fusehosting.net; abuse@amazonaws.com; abuse@coresite.com; jerome.favis@coresite.com; michael.stanley@coresite.com; chris.malayter@coresite.com; osc@coresite.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***ift.tt
 3.218.161.214
 50.17.46.70
 52.55.57.163
-awsdns-hostmaster@amazon.com; abuse@amazonaws.com; hostmaster@amazon.com; domainabuse@cscglobal.com; abuse@softlayer.com
+awsdns-hostmaster@amazon.com; abuse@amazonaws.com; hostmaster@amazon.com; domainabuse@cscglobal.com; abuse@softlayer.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
-***content.app-us1.com
-abuse@cloudflare.com; domainabuse@cscglobal.com; registrar-abuse@cloudflare.com
+***belvoirty.com
+tos@fastdomain.com; domainabuse@cscglobal.com; network-abuse@google.com; mailauth-reports@google.com; 
 
+***zanatoffers.xyz
 ***pangea.quest
 ***cookieinparadise.click
 ***guys.monster
@@ -99,24 +223,21 @@ abuse@ascio.com; abuse@edicioneselpais.net; abuse@web.com
 ***oebb.at
 abuse@a1.at; dnsmaster@oebb.at; domainabuse@cscglobal.com; abuse@ams-ix.net;
 
-***s.bl-1.com
-***bananatag.com
-***staffbase.com
-abuse@godaddy.com; abuse@amazonaws.com; domainabuse@cscglobal.com; abuse@united-domains.de
-
 ***omewithagre.xyz  <----Forwards from s.bl-1.com
-abuse@microsoft.com; abuse@namecheap.com; domainabuse@cscglobal.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@namecheap.com; domainabuse@cscglobal.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
 
 ***totalpopper.com  <---forwards from s.bl-1.com
-domainabuse@tucows.com; help@fusehosting.net; abuse@amazonaws.com; abuse@quadranet.com
+domainabuse@tucows.com; help@fusehosting.net; abuse@amazonaws.com; abuse@quadranet.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***foundedgrant.com
-abuse@iweb.com; abuse@key-systems.net; abuse@nl.leaseweb.com
+abuse@iweb.com; abuse@key-systems.net; abuse@nl.leaseweb.com; abusereport@key-systems.net
 
+
+***zincicruber.com
 ***ozeniuspharma.info
 ***acrux.website
 ***adhil.website
-abuse@shinjiru.com.my; abuse@viewqwest.com; abuse@namecheap.com; abuse@viewqwest.com; abuse@coresite.com; abuse@piradius.net
+abuse@shinjiru.com.my; abuse@viewqwest.com; abuse@namecheap.com; abuse@viewqwest.com; abuse@coresite.com; abuse@piradius.net; abuse@amazonaws.com
 
 ***lepetitjournal.com
 abuse@celeonet.fr
@@ -128,22 +249,25 @@ abuse@regtons.com; abuse@spacedump.net; abuse@cogentco.com
 abuse@vk.com; noc@vk.com; support@vk.com; abuse@retn.net; domainabuse@cscglobal.com; abuse@corp.mail.ru; tld-abuse@nic.ru
 
 ***dlvr.it
-abuse@amazonaws.com; domainabuse@cscglobal.com
+abuse@amazonaws.com; domainabuse@cscglobal.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
+
+***tapestrywinds.com
+abuse@namecheap.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; domainabuse@cscglobal.com
 
 ***paldf.net
 abuse@cloudflare.com; registrar-abuse@cloudflare.com
 
 ***schema.io
-abuse@101domain.com; abuse@amazonaws.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com
+abuse@101domain.com; abuse@amazonaws.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***amazonaws.com
-abuse@amazonaws.com; amzn-noc-contact@amazon.com
+abuse@amazonaws.com; amzn-noc-contact@amazon.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***github.io
 abuse@github.com
 
 ***eacdn.com
-abuse@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
 
 ***marinsoftware.com
 abuse@godaddy.com; abuse@1and1.com
@@ -158,7 +282,7 @@ abuse@1api.net; abuse@cloudflare.com; registrar-abuse@cloudflare.com
 ABUSE@ENOM.COM; abuse@cox.net; abuse@incapsula.com
 
 ***mailchimp.com
-abuse@web.com; domain.operations@web.com; abuse@amazonaws.com
+abuse@web.com; domain.operations@web.com; abuse@amazonaws.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***tales.monster
 netops@singlehop.com
@@ -176,10 +300,10 @@ abuse@pantheon.io; abuse@godaddy.com
 domainabuse@cscglobal.com
 
 ***mexiconewsdaily.com
-abuse@cloudflare.com; abuse@godaddy.com; abuse@microsoft.com; registrar-abuse@cloudflare.com; report_spam@hotmail.com; abuse@hotmail.com
+abuse@cloudflare.com; abuse@godaddy.com; registrar-abuse@cloudflare.com; abuse@microsoft.com; iphostmaster@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com; abusecomplaints@markmonitor.com; msnhst@microsoft.com; secure@microsoft.com; IOC@microsoft.com
 
 ***time.com
-abuse@salesforce.com; abuse@c.exacttarget.com; abuse@amazonaws.com
+abuse@salesforce.com; abuse@c.exacttarget.com; abuse@amazonaws.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***cnn.com
 hostmaster@turner.com; abuse@fastly.com; domainabuse@cscglobal.com
@@ -189,10 +313,10 @@ abuse@akamai.com; domainabuse@tucows.com
 
 ***getbee.io
 ***beefree.io
-domainabuse@tucows.com; abuse@amazonaws.com
+domainabuse@tucows.com; abuse@amazonaws.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***substack.com
-abuse@amazonaws.com; awsdns-hostmaster@amazon.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com
+abuse@amazonaws.com; awsdns-hostmaster@amazon.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com; awsdns-hostmaster@amazon.com; amzn-noc-contact@amazon.com
 
 ***ibb.co
 abuse@advancedhosters.com
@@ -207,7 +331,7 @@ abuse@fastly.com
 domainabuse@cscglobal.com; abuse@akamai.com
 
 ***ufferrs.com
-abuse@ghostnet.de
+abuse@ghostnet.de; allgemeiner-spam@internet-beschwerdestelle.de; besonderer-spam@internet-beschwerdestelle.de;
 
 ***mailchi.mp
 abuse@akamai.com; ip-admin@akamai.com
@@ -219,6 +343,9 @@ abuse@domainbox.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com
 
 
 ***Gandi.net scammers***
+
+***sphrepark.net
+***lattefree.com
 ***exslt.org
 ***zayo.com
 ***list-manage.com
@@ -232,13 +359,24 @@ abuse@domainbox.com; abuse@cloudflare.com; registrar-abuse@cloudflare.com
 ***govdelivery.com
 ***pantheon.io
 ***piano.io
-Suspect abuse emails from Gandi.net...abuse@nl.team.blue; abuse@spotler.email; abuse@key-systems.net
+Suspect abuse emails from Gandi.net...abuse@nl.team.blue; abuse@spotler.email; abuse@key-systems.net; abuse@dedipath.com; admin@dedipath.com; noc@inap.com
 
 
-domainabuse@cscglobal.com; abuse@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com
+***zayo.com  <---hosts sphrepark.net
+abuse@zayo.com ???; domainabuse@cscglobal.com; abuse@xneelo.com
+
+***kieaonline.com <---redirects from sphrepark.net
+***empiresames.com
+abuse@godaddy.com; abuse@ipxo.com; domainabuse@cscglobal.com; report@phishing.gov.uk; phishing@hmrc.gov.uk
+
+IPXO.COM Address
+207 Regent Street
+London, GB
+
 
 ***OLD GANDI.NET Abuse email***
-abusecomplaints@markmonitor.com; network-abuse@google.com; domainabuse@cscglobal.com; abuse@aup.lumen.com; abuse@level3.com; abuse@centurylinkservices.net;  abuse@godaddy.com; abuse@incapsula.com; abuse@fastly.com
+iieg@telehouse.com; jose.guzman@telehouse.com; sugeno@telehouse.com; hostmaster@voxel.net; noc@voxel.com; abuse@voxel.com; domainabuse@cscglobal.com; abuse@softlayer.com
+abusecomplaints@markmonitor.com; network-abuse@google.com; domainabuse@cscglobal.com; abuse@aup.lumen.com; abuse@level3.com; abuse@centurylinkservices.net;  abuse@godaddy.com; abuse@incapsula.com; abuse@fastly.com; abuse@microsoft.com; report_spam@hotmail.com; abuse@hotmail.com;
 
 
 
